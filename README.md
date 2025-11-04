@@ -66,7 +66,7 @@
 ---
 
 ## 📫 Contacto  
-📧 **Correo:** [chavezhadik@gmail.com](mailto:chavezhadik@gmail.com) - [cofeeblcks@gmail.com](mailto:cofeeblcks@gmail.com)
+📧 **Correo:** [chavezhadik@gmail.com](mailto:chavezhadik@gmail.com) - [cofeeblcks@gmail.com](mailto:cofeeblcks@gmail.com)  
 💼 **LinkedIn:** [@chavezhadik](https://linkedin.com/in/chavezhadik)  
 🌍 **Ubicación:** Barrancabermeja, Santander - Colombia
 
