@@ -28,6 +28,15 @@
 ---
 
 ## 📂 Experiencia Laboral  
+### 💼 IATech Robotics *(2025 - Actual, Remoto)*
+- Desarrollo backend con python, postgresql, ros
+- Integración de servicios y soluciones a medida
+- Lider de desarrollo e integraciones en sistemas automatizados
+
+### 💼 IATech *(2025 - Actual, Remoto)*
+- Desarrollo backend con Laravel, MySQL y JavaScript
+- Integración de servicios y soluciones a medida
+
 ### 💼 3Didacticos Technology *(2024 - Actual, Remoto)*
 - Desarrollo backend con Laravel, MySQL y JavaScript
 - Integración de servicios y soluciones a medida
@@ -57,7 +66,7 @@
 ---
 
 ## 📫 Contacto  
-📧 **Correo:** chavezhadik@gmail.com  
+📧 **Correo:** [chavezhadik@gmail.com](mailto:chavezhadik@gmail.com) - [cofeeblcks@gmail.com](mailto:cofeeblcks@gmail.com)
 💼 **LinkedIn:** [@chavezhadik](https://linkedin.com/in/chavezhadik)  
 🌍 **Ubicación:** Barrancabermeja, Santander - Colombia
 
