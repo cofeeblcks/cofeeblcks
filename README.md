@@ -10,7 +10,7 @@
 - JavaScript, HTML/CSS, PHP, Python
 
 ### 🔧 Frameworks & Herramientas:
-- Laravel, Alpine.js, TailwindCSS, Bootstrap
+- Laravel, Alpine.js, TailwindCSS, Bootstrap, Reactjs, Nestjs
 
 ### 🗄️ Bases de Datos:
 - MySQL, PostgreSQL
@@ -28,12 +28,12 @@
 ---
 
 ## 📂 Experiencia Laboral  
-### 💼 IATech Robotics *(2025 - Actual, Remoto)*
-- Desarrollo backend con python, postgresql, ros
+### 💼 IATech Robotics *(2025 - 2026, Remoto)*
+- Desarrollo backend con python, postgresql, ros1, ros2
 - Integración de servicios y soluciones a medida
 - Lider de desarrollo e integraciones en sistemas automatizados
 
-### 💼 IATech *(2025 - Actual, Remoto)*
+### 💼 IATech Company *(2025 - Actual, Remoto)*
 - Desarrollo backend con Laravel, MySQL y JavaScript
 - Integración de servicios y soluciones a medida
 
@@ -44,10 +44,12 @@
 ### 💼 Somos 19D *(2023)*
 - Análisis de requerimientos y desarrollo de software
 - Administración de bases de datos y servidores
+- Desarrollo fullstack y soporte tecnico en sitio
 
 ### 💼 Laboratorio RVO IPS *(2018 - 2022)*
-- Migración de sistemas de escritorio a web
+- Migración de sistemas de escritorio c# a web usando lenguaje nativo html5, css3, javascript, jquery, PHP, PostgreSQL
 - Soporte técnico, mantenimiento de servidores y bases de datos
+- Desarrollo fullstack
 
 ---
 
